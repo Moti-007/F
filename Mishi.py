@@ -66,11 +66,11 @@ banner = """
 \033[1;91m    \/__/         \/__/       \/__/         \/__/         \/__/         \/__/    
 \033[1;92m     (NIGHT 007 QUEEN  MISHI)
 \033[1;93m******I*****MISs*****U*****MISHI****"""
-\033[1;94mLOVER   :\033[1;91m MISHAL X FAISAL
-\033[1;94mCONTECT :\033[1;91m +923035191880
-\033[1;94mFACEBOK :\033[1;91m FAISAL REHMAN
-\033[1;94mGIFT    :\033[1;91m FOR MISHAL SHONI
-\033[1;94mGANG    :\033[1;91m NIGHT 007 FAMILYðŸŒ¹
+\033[1;94m ➣ LOVER   : MISHAL X FAISAL
+\033[1;94m➣CONTECT : +923035191880
+\033[1;94m➣FACEBOK : FAISAL REHMAN
+\033[1;94m➣GIFT    : FOR MISHAL SHONI
+\033[1;94m➣GANG    : NIGHT 007 FAMILY
 \033[1;93m****I*****LOVE*****U*****MISHI*****"""
 # titik #
 def tik():
